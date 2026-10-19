@@ -1,4 +1,4 @@
-# 📞 Análisis de Uso y Segmentación de Clientes - ConnectaTel
+# 📞 Análisis de Uso y Segmentación de Clientes - ConnectaTel (Bootcamp at TipleTen)
 
 ## 🎯 Objetivo del Proyecto
 El objetivo principal de este proyecto es analizar el comportamiento de uso de servicios móviles (llamadas y mensajes de texto) de los clientes de **ConnectaTel** en Latinoamérica durante el año 2024. A través de este análisis se identifican patrones de consumo, se detectan e interpretan datos atípicos (*outliers*), y se construyen segmentaciones de clientes para proponer estrategias comerciales de retención y optimización de planes.
